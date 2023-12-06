@@ -28,26 +28,26 @@ I'm Sahan Adikaram
 ***Languages*  :**
 <p> 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/dart.png"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/javascript.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/java-ar21.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/PHP-logo.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/HTML5_logo_and_wordmark.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/solidity-logo-vector.png"></code>
- <code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/Apache_Maven_logo.svg.png"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/dart.png"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/javascript.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/java-ar21.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/PHP-logo.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/solidity-logo-vector.png"></code>
+ <code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/Apache_Maven_logo.svg.png"></code>
 </p>
 
 ***libraries*  :**
 <p>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/nodeJs.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/flutter.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/nodeJs.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/flutter.svg"></code>
 </p>
 
 ***Databases*  :**
 <p>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/Firebase_Logo_Standard_Lockup.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/mysql-ar21.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/mongodb-ar21.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/Firebase_Logo_Standard_Lockup.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/mysql-ar21.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/mongodb-ar21.svg"></code>
 </p>
 
 ***Tools*  :**
@@ -55,9 +55,9 @@ I'm Sahan Adikaram
 
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/visual-studio.svg"></code>
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/remix.png"></code> 
-<code><img height="30" src="https://github.com/SandaruKavee/SandaruKavee/blob/main/Logos/ij.png"></code> 
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/visual-studio.svg"></code>
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/remix.png"></code> 
+<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/ij.png"></code> 
 
 
 </p>
