@@ -20,7 +20,7 @@ I'm Sahan Adikaram
 
 
 - 📫 How to reach me: 
-<a href='#'>LinkedIn</a>
+<a href='https://www.linkedin.com/in/sahan-adikaram-861938258/'>LinkedIn</a>
 
 ## Skills  :
 
