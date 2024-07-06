@@ -29,7 +29,6 @@ I'm Sahan Adikaram
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/dart.png"></code>
 <code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/javascript.svg"></code>
-<code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/java-ar21.svg"></code>
 <code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/PHP-logo.svg"></code>
 <code><img height="30" src="https://github.com/SahanAdikaram/SahanAdikaram/blob/main/Logos/HTML5_logo_and_wordmark.svg"></code>
 </p>
